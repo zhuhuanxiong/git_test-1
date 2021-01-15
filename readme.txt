@@ -10,4 +10,4 @@ feature1
 99999999
 1010101010101010
 aaaaaaaaaa
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
